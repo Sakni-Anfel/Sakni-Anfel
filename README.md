@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Anfel 👋
 
-<!--
-**Sakni-Anfel/Sakni-Anfel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering student in Embedded Systems & IoT at ISIMG, Gabès — working at the intersection of hardware and software.
 
-Here are some ideas to get you started:
+I build things that run close to the metal: real-time firmware on STM32, wireless sensor networks, safety-critical systems, and end-to-end IoT architectures. Currently finishing my main project — a LoRa-based flood monitoring system with FreeRTOS, MQTT, and an Android app.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I work with
+
+**Microcontrollers & RTOS** — STM32, ESP32, FreeRTOS  
+**Protocols** — LoRa / SX1278, MQTT, SPI, I2C, UART  
+**Languages** — C, C++, Python, Java (Android), Solidity  
+**Tools** — STM32CubeIDE, Keil, Git, MATLAB/Simulink 
+**Other** — Firebase, Android SDK, Ethereum / web3.py
+
+---
+
+### Currently working on
+- 🔧 Finalizing a real-time IoT flood detection system (STM32 + LoRa + Firebase + Android)
+- ⛓️ A decentralized alert system on Ethereum with multi-sensor consensus (Solidity + Python + React)
+
+---
+
+### Goals
+Targeting embedded systems and robotics roles in Europe — Germany 🇩🇪 and the Netherlands 🇳🇱.  
+Long-term interest in safety-critical systems and robotics research.
+
+---
+
+### Life
+Building the future with my partner [@Tasnim-dev1](https://github.com/Tasnim-dev1). 🤍
+
+---
+
+*"The best way to predict the future is to build it."*
