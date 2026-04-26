@@ -29,7 +29,7 @@ Long-term interest in safety-critical systems and robotics research.
 ---
 
 ### Life
-Building the future with my partner [@Sakni-Tasnim](https://github.com/Tasnim-dev1). 🤍
+Building the future with my partner [@Sakni-Tasnim](https://github.com/Sakni-Tasnim). 🤍
 
 ---
 
