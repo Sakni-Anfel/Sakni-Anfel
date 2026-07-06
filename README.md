@@ -1,30 +1,27 @@
 # Hi, I'm Anfel 👋
+Embedded Systems & IoT engineering student at ISIMG, Gabès, working at the intersection of hardware and software.
 
-Engineering student in Embedded Systems & IoT at ISIMG, Gabès — working at the intersection of hardware and software.
-
-I build things that run close to the metal: real-time firmware on STM32, wireless sensor networks, safety-critical systems, and end-to-end IoT architectures. Currently finishing my main project — a LoRa-based flood monitoring system with FreeRTOS, MQTT, and an Android app.
+I build things that run close to the metal: real-time firmware on STM32, wireless sensor networks, and safety-critical systems from register-level up. Currently building **myRtos**, a bare-metal RTOS from scratch on STM32F401 — no CMSIS, no HAL — working directly from ARM reference manuals.
 
 ---
 
 ### What I work with
-
-**Microcontrollers & RTOS** — STM32, ESP32, FreeRTOS  
-**Protocols** — LoRa / SX1278, MQTT, SPI, I2C, UART  
-**Languages** — C, C++, Python, Java (Android), Solidity  
-**Tools** — STM32CubeIDE, Keil, Git, MATLAB/Simulink 
-**Other** — Firebase, Android SDK, Ethereum / web3.py
+**Microcontrollers & RTOS**: STM32 (bare-metal + FreeRTOS), ESP32, ARM Cortex-M  
+**Protocols**: LoRa / SX1278, MQTT, SPI, I2C, UART  
+**Languages**: C, C++, Python, Java (Android)  
+**Tools**: STM32CubeIDE, CMake, Git, Saleae Logic Analyzer, MATLAB/Simulink  
+**Other**: Firebase, Android SDK
 
 ---
 
 ### Currently working on
-- 🔧 Finalizing a real-time IoT flood detection system (STM32 + LoRa + Firebase + Android)
-- ⛓️ A decentralized alert system on Ethereum with multi-sensor consensus (Solidity + Python + React)
+- 🔧 **myRtos** — bare-metal RTOS on STM32F401, built register-by-register from ARM reference manuals. NVIC and SCB drivers complete, interrupt-driven SysTick hardware-verified, now moving into the Cortex-M exception model (MSP/PSP, PendSV) toward a working scheduler.
+- ✅ **StaySafe** — completed IoT flood monitoring system: STM32F401 + FreeRTOS, LoRa 433MHz, ESP32 MQTT gateway, Firebase + Android integration.
 
 ---
 
 ### Goals
-Targeting embedded systems and robotics roles in Europe — Germany 🇩🇪 and the Netherlands 🇳🇱.  
-Long-term interest in safety-critical systems and robotics research.
+Building a safety-critical embedded software portfolio, targeting firmware/embedded roles in aerospace and automotive. Long-term interest in safety-critical systems and fault-tolerant embedded architectures.
 
 ---
 
