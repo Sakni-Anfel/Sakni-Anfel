@@ -1,7 +1,7 @@
 # Hi, I'm Anfel 👋
 Embedded Systems & IoT engineering student at ISIMG, Gabès, working at the intersection of hardware and software.
 
-I build things that run close to the metal: real-time firmware on STM32, wireless sensor networks, and safety-critical systems from register-level up. Currently building **myRtos**, a bare-metal RTOS from scratch on STM32F401 — no CMSIS, no HAL — working directly from ARM reference manuals.
+I build things that run close to the metal: real-time firmware on STM32, wireless sensor networks, and safety-critical systems from register-level up. Currently building **myRtos**, a bare-metal RTOS from scratch on STM32F401  no CMSIS, no HAL  working directly from ARM reference manuals.
 
 ---
 
